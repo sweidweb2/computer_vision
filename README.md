@@ -4,6 +4,9 @@ This repository contains a variety of computer vision projects implemented in Py
 
 ---
 
+![Alt text describing the image](relative/path/to/image.png)
+
+
 ## Projects Included
 
 - **Face and Eye Detection:**  
