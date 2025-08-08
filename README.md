@@ -4,7 +4,7 @@ This repository contains a variety of computer vision projects implemented in Py
 
 ---
 
-![Alt text describing the image](relative/path/to/image.png)
+![Alt text describing the image](A-Journey-into-the-World-of-Computer-Vision-in-Artificial-Intelligence-1024x373.jpg)
 
 
 ## Projects Included
