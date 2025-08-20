@@ -23,7 +23,14 @@ This repository contains a variety of computer vision projects implemented in Py
 
 - **Simpsons Character Classification:**  
   Classify Simpsons characters from images using deep learning models.
+  
+- **Helmet Detection (YOLOv8/YOLOv11n):**
+  A custom-trained YOLO model that detects safety helmets in video streams.
+  The system processes video frames in real time, resizes them to 640x640, and highlights detected helmets with bounding boxes and confidence scores.
 
+- **Video Frame Extractor with Blur Filtering:**
+  Captures frames from a video or IP camera feed, filters them by sharpness using the Laplacian variance method, and saves only clear, non-blurry frames into    structured folders.
+  Useful for creating clean datasets from raw videos.
 ---
 
 ## Requirements
